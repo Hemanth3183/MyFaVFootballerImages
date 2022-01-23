@@ -4,7 +4,7 @@ Nesta
 Roberto Carlos
 Cafu
 Makelele
-Ronaldinho
+Maradona
 Zidane
 Gerard
 Ronaldo
@@ -18,3 +18,5 @@ Substitutes:
 4. Iniesta
 5. Buffon
 6. Riquelme
+7. Ronaldinho
+8. Pele
